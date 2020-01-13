@@ -1,5 +1,5 @@
 # donut_chart_ngpigeon
-Addition of donut chart to the existing module pigeon-chart of ngPigeon a data visualization element
+Addition of donut chart to the existing module pigeon-chart of ngPigeon https://github.com/ngPigeon/pigeon-chart a data visualization element
  <br /> <br />
 After downloading the files from github follow the following steps:<br />
 # Step1
