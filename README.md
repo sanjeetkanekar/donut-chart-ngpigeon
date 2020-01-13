@@ -51,7 +51,7 @@ In order to display data in different chart forms add the following custom pigon
 The only change here is we add the type as “donut”, the implementation results are displayed is Figure 3
 <br />
 <br />
-#Demo
+# Demo
  <br />
   <br />
 ![demo](https://github.com/sanjeetkanekar/myproject/blob/master/ngpigeon_demo1.jpg)
