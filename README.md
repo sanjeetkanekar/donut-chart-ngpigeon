@@ -3,7 +3,7 @@ Addition of donut chart to the existing module pigeon-chart of ngPigeon a data v
  <br /> <br />
 After downloading the files from github follow the following steps:<br />
 # Step1
-1.Copy this tool into your project root directory then inject our module name data-ng-app="pigeon-chart" under HTML tag. 
+Copy this tool into your project root directory then inject our module name data-ng-app="pigeon-chart" under HTML tag. 
  <br />
  <br />
 ![module name](https://github.com/sanjeetkanekar/myproject/blob/master/ngpigeon_setup.jpg)
@@ -54,4 +54,4 @@ The only change here is we add the type as “donut”, the implementation resul
 #Demo
  <br />
   <br />
-![demo](https://github.com/sanjeetkanekar/myproject/blob/master/ngpigeon_demo.jpg)
+![demo](https://github.com/sanjeetkanekar/myproject/blob/master/ngpigeon_demo1.jpg)
