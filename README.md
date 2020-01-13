@@ -54,4 +54,4 @@ The only change here is we add the type as “donut”, the implementation resul
 # Demo
  <br />
   <br />
-![demo](https://github.com/sanjeetkanekar/myproject/blob/master/ngpigeon_demo1.jpg)
+![demo1](https://github.com/sanjeetkanekar/myproject/blob/master/ngpigeon_demo1.jpg)
