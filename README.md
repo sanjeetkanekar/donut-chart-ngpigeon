@@ -3,7 +3,8 @@ Addition of donut chart to the existing module pigeon-chart of ngPigeon a data v
 
 After downloading the files from github follow the following steps:<br />
 # Step1
-Copy this tool into your project root directory then inject our module name data-ng-app="pigeon-chart" under HTML tag. 
+1.Copy this tool into your project root directory then inject our module name data-ng-app="pigeon-chart" under HTML tag. 
+![module name](https://github.com/sanjeetkanekar/myproject/blob/master/ngpigeon_setup.jpg)
  <br />
 # Step 2
 Make sure you include Pigeon Core, Pigeon Chart, AngularJS, Underscore, Highcharts and Highcharts related JavaScript files under head tag of your project. Take note of the sequences of the files you have included. jQuery, AngularJS, Highcharts and Underscore must be loaded before Pigeon Chart JavaScript.
