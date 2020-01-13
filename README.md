@@ -52,7 +52,7 @@ The only change here is we add the type as “donut”, the implementation resul
 <br />
 <br />
 # Demo
-Demo of Donut chart after configurtion
+Demo of Donut chart after configuration
  <br />
   <br />
 ![demo1](https://github.com/sanjeetkanekar/myproject/blob/master/ngpigeon_demo1.jpg)
