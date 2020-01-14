@@ -2,6 +2,7 @@
 <!-- data-ng-app="pigeon-chart" in the html is essential to inject ngPigeon-chart into the webpage-->
 <html lang="en" data-ng-app="pigeon-chart" data-ng-cloak>
     <head>
+        <meta name="google-site-verification" content="UgKaKWQYQL6TsaMSVd_JGPj9EweAUhks_1qfG7QtjsA" />
         <title>Example</title>
         <!-- The includes.php file is required to include all necessary dependencies-->
         <?php
