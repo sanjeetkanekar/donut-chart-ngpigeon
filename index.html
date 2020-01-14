@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<!-- data-ng-app="pigeon-chart" in the html is essential to inject ngPigeon-chart into the webpage-->
+<html lang="en" data-ng-app="pigeon-chart" data-ng-cloak>
+    <head>
+        <meta name="google-site-verification" content="UgKaKWQYQL6TsaMSVd_JGPj9EweAUhks_1qfG7QtjsA" />
+        <title>Example</title>
+        <!-- The includes.php file is required to include all necessary dependencies-->
+        <style type="text/css">
+        </style>
+    </head>
+    <body>
+        <div id="axis">
+        </div>
+        <div>
+            <pigeon-chart query="SELECT Brand_name, market_share FROM laptop_sales"
+                title="Donut Chart"
+                subtitle="Distribution of sales of the laptop industry between five companies"
+                type="donut"
+                axisY-title="Brand_name"
+                axisX-title="market_share"
+                show-legend="bottom"
+                show-data-label="true"
+                zoom-type="xy">Placeholder for generic chart</pigeon-chart>
+            <br><br>
+            <pigeon-chart query="SELECT Brand_name, market_share FROM laptop_sales"
+                title="Pie Chart"
+                subtitle="Distribution of sales of the laptop industry between five companies"
+                type="pie"
+                axisY-title="Brand_name"
+                axisX-title="market_share"
+                show-legend="bottom"
+                show-data-label="true"
+                zoom-type="xy">Placeholder for generic chart</pigeon-chart>
+        </div>
+    </body>
+</html>
